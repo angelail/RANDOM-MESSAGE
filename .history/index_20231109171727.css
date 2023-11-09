@@ -1,0 +1,12 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    /*background-color: rgba(250, 234, 214, 0.228);*/
+    background-image: url("https://wallpaper.dog/large/5551206.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+    width: 100%;
+}
